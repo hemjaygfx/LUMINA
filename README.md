@@ -26,3 +26,10 @@ Layout: Responsive grid-based layout that adapts gracefully from desktop to mobi
 Interactions: CSS-based hover effects and transitions provide visual feedback without JavaScript overhead.
 
 Accessibility: Semantic HTML, sufficient color contrast, and keyboard navigation support ensure inclusive design.
+
+## 📸 Screenshots
+### Desktop View
+![Desktop Screenshot](screenshots/desktop view.png)
+
+### Mobile View
+![Mobile Screenshot](screenshots/mobile view.jpeg)
